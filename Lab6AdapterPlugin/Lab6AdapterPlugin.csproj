@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FriendlyPlugin\FriendPlugin.csproj" />
+    <ProjectReference Include="..\Lab4.Abstractions\Lab4.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

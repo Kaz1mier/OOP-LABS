@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab5": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Software\\C#\\Projects\\OOP\\lab5\\bin\\Debug\\net8.0-windows\\Lab5.exe"
+    }
+  }
+}
